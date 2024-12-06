@@ -16,7 +16,7 @@ def bolding(b):
 
 @modify
 def full_name(name):
-    return "akshay" + name
+    return "akshay" +name
 print(full_name("aneesh"))
 
 @bolding
